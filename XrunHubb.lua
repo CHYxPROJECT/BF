@@ -1,3 +1,6 @@
+
+-- create by nana - lib redz
+
 Settings = Settings or {}
 
 local Players = game:GetService("Players")
@@ -3735,7 +3738,7 @@ local v466 = vu32:MakeWindow({
 })
 
 v466:AddMinimizeButton({
-    Button = { Image = "rbxassetid://96779554580445", BackgroundTransparency = 1},
+    Button = { Image = "rbxassetid://92263670982382", BackgroundTransparency = 1},
     Size = UDim2.new(0, 40, 0, 40),
     Corner = { CornerRadius = UDim.new(0.5, 0) },
 })
